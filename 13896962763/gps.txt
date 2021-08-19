@@ -6,6 +6,6 @@
   "vertical_accuracy": 0.0,
   "bearing": 0.0,
   "speed": 0.6686386466026306,
-  "elapsedMs": 12,
+  "elapsedMs": 8,
   "provider": "network"
 }
