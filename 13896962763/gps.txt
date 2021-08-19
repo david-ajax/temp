@@ -1,6 +1,6 @@
 {
-  "latitude": 30.637811,
-  "longitude": 108.967535,
+  "latitude": 30.637992,
+  "longitude": 108.967428,
   "altitude": 0.0,
   "accuracy": 30.0,
   "vertical_accuracy": 0.0,
