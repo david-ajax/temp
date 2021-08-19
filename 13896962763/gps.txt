@@ -6,6 +6,6 @@
   "vertical_accuracy": 0.0,
   "bearing": 0.0,
   "speed": 0.0,
-  "elapsedMs": 17,
+  "elapsedMs": 11,
   "provider": "gps"
 }
