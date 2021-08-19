@@ -1,11 +1,11 @@
 {
-  "latitude": 30.607857458672278,
-  "longitude": 108.93140823643738,
-  "altitude": 1409.4594926936552,
-  "accuracy": 25.258930206298828,
+  "latitude": 30.60742684046304,
+  "longitude": 108.93090237413901,
+  "altitude": 1420.899120687507,
+  "accuracy": 15.67648983001709,
   "vertical_accuracy": 0.0,
-  "bearing": 213.1148223876953,
-  "speed": 9.50855827331543,
-  "elapsedMs": 34,
+  "bearing": 225.24485778808594,
+  "speed": 8.101205825805664,
+  "elapsedMs": 32,
   "provider": "gps"
 }
